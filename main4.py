@@ -37,3 +37,11 @@ graph = {
 start_node = 'A'
 distances = dijkstra(graph, start_node)
 print(f"Shortest distances from {start_node}: {distances}")
+
+
+
+'''check log commit: git log --oneline
+git revert commitid
+i để vào mode edit commiti
+gõ esc để thoát mode edit
+gõ :wq'''
